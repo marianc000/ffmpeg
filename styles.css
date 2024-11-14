@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: mediumblue;
+    padding: 0.5em;
+    display: block;
+}
+
+.container {
+    text-align: center;
+}
+html {
+    font-family: system-ui;
+}
